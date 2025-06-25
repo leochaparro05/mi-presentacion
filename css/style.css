@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(0, 88, 88);
+    text-align: center;
+}
+
+header{
+    color: rgb(124, 124, 124);
+}
+
+.intro{
+    background-color: darkred;
+    color: rgb(32, 41, 18)
+}
+
+.descripcion{
+    background-color: rgb(168, 147, 122);
+}
+
+img:hover{
+    scale: 1.030;
+}
