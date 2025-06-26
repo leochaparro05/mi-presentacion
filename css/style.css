@@ -8,12 +8,19 @@ header{
 }
 
 .intro{
+    padding: 3px;
     background-color: darkred;
+    border: 2px solid black;
     color: rgb(32, 41, 18)
+    
 }
 
 .descripcion{
-    background-color: rgb(168, 147, 122);
+    background-color: rgb(168, 147, 122);   
+}
+
+.descripcion p{
+    border: 2px solid grey;
 }
 
 img:hover{
